@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\bin\Debug\WindowsFirewallApp.exe
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\bin\Debug\MySql.Data.dll
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\bin\Debug\WindowsFirewallApp.exe.config
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.LoginForm.resources
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.registerForm.resources
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.MainForm.resources
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.Properties.Resources.resources
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.csproj.CopyComplete
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.exe
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\obj\Debug\WindowsFirewallApp.pdb
+C:\Users\PC\source\repos\WindowsFirewallApp\WindowsFirewallApp\bin\Debug\WindowsFirewallApp.pdb
